@@ -1,4 +1,4 @@
-![Registration Form](https://github.com/user-attachments/assets/be0997df-9975-42ad-b03b-7e0c85312a05)# Week 1 Assignment – Celebal Summer Internship (React.js Domain)
+# Week 1 Assignment – Celebal Summer Internship (React.js Domain)
 
 This project is the **Week 1 assignment** for my **React.js internship at Celebal Technologies**. It is a fully functional user registration form built using React and Tailwind CSS with custom validation logic — without using any third-party libraries.
 

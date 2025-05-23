@@ -19,13 +19,13 @@ This project is the **Week 1 assignment** for my **React.js internship at Celeba
 ## Screenshots
 
 <details>
-  <summary><strong>🖊 Registration Form</strong></summary>
+  <summary><strong>Registration Form</strong></summary>
   <br>
-  <img src="https://raw.githubusercontent.com/yourusername/your-repo/main/form.png" alt="Registration Form" width="100%" />
+  <img src="https://github.com/Gautam2117/React-form-validation-assignment/blob/master/Registration%20Form.png" alt="Registration Form" width="100%" />
 </details>
 
 <details>
-  <summary><strong>✅ Submission Success Page</strong></summary>
+  <summary><strong>Submission Success Page</strong></summary>
   <br>
   <img src="https://github.com/Gautam2117/React-form-validation-assignment/blob/master/success.png" alt="Success Page" width="100%" />
 </details>

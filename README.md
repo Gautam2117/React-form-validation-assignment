@@ -19,7 +19,7 @@ This project is the **Week 1 assignment** for my **React.js internship at Celeba
 ## Screenshots
 
 <details>
-  <summary><strong>🖊 Registration Form</strong></summary>
+  <summary><strong>Registration Form</strong></summary>
   ![Registration Form](https://github.com/user-attachments/assets/620c049f-8014-4397-b4a3-2e873714e1ad)
 </details>
 
